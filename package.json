@@ -1,0 +1,11 @@
+{
+  "name": "squarify",
+  "version": "1.0.0",
+  "private": false,
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "gm": "^1.23.0"
+  }
+}
